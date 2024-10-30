@@ -1,0 +1,35 @@
+{
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "heyform",
+        "lang": "en"
+      },
+      "HeyForm": [
+        ""
+      ],
+      "Serverless Online Form Builder & Data Management Platform": [
+        ""
+      ],
+      "HeyFormURL": [
+        ""
+      ],
+      "Paste a link to the content you want to display on your site.": [
+        ""
+      ],
+      "Enter HeyForm sharing URL here...": [
+        ""
+      ],
+      "Embed": [
+        ""
+      ],
+      "Learn more about embeds": [
+        ""
+      ],
+      "Hold tight - just getting this page ready...": [
+        ""
+      ]
+    }
+  }
+}

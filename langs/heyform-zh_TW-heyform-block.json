@@ -1,0 +1,35 @@
+{
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "heyform",
+        "lang": "zh_TW"
+      },
+      "HeyForm": [
+        "嘿喲表單"
+      ],
+      "Serverless Online Form Builder & Data Management Platform": [
+        "無伺服器在線表單生成器和數據管理平台"
+      ],
+      "HeyFormURL": [
+        "嘿喲表單地址"
+      ],
+      "Paste a link to the content you want to display on your site.": [
+        "請貼上您希望顯示的站點內容的連結。"
+      ],
+      "Enter HeyForm sharing URL here...": [
+        "鍵入嘿喲表單分享的URL…"
+      ],
+      "Embed": [
+        "嵌入內容"
+      ],
+      "Learn more about embeds": [
+        "進一步瞭解嵌入內容"
+      ],
+      "Hold tight - just getting this page ready...": [
+        "抓緊啦 - 頁面即將載入完成..."
+      ]
+    }
+  }
+}

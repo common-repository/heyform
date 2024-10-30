@@ -1,0 +1,35 @@
+{
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "heyform",
+        "lang": "ja"
+      },
+      "HeyForm": [
+        "ヘイフォーム"
+      ],
+      "Serverless Online Form Builder & Data Management Platform": [
+        "サーバーレスオンラインフォームビルダーとデータ管理プラットフォーム"
+      ],
+      "HeyFormURL": [
+        "ヘイフォームURL"
+      ],
+      "Paste a link to the content you want to display on your site.": [
+        "サイトに表示するコンテンツへのリンクを貼り付けます。"
+      ],
+      "Enter HeyForm sharing URL here...": [
+        "ここにヘイフォーム共有 URL を入力してください…"
+      ],
+      "Embed": [
+        "埋め込む"
+      ],
+      "Learn more about embeds": [
+        "埋め込みについてさらに詳しく"
+      ],
+      "Hold tight - just getting this page ready...": [
+        "しっかりと保持 - ちょうどこのページの準備をしています."
+      ]
+    }
+  }
+}

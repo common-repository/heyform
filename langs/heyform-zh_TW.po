@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HeyForm 1.0.0\n"
+"Report-Msgid-Bugs-To: https://heyformhq.com\n"
+"Language-Team: Heyooo, Inc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-10-22T10:00:00+00:00\n"
+"PO-Revision-Date: 2020-12-01 15:34+0800\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: heyform\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language: zh_TW\n"
+
+msgid "HeyForm"
+msgstr "嘿喲表單"
+
+msgid "Serverless Online Form Builder & Data Management Platform"
+msgstr "無伺服器在線表單生成器和數據管理平台"
+
+msgid "HeyFormURL"
+msgstr "嘿喲表單地址"
+
+msgid "Paste a link to the content you want to display on your site."
+msgstr "請貼上您希望顯示的站點內容的連結。"
+
+msgid "Enter HeyForm sharing URL here..."
+msgstr "鍵入嘿喲表單分享的URL…"
+
+msgid "Embed"
+msgstr "嵌入內容"
+
+msgid "Learn more about embeds"
+msgstr "進一步瞭解嵌入內容"
+
+msgid "Hold tight - just getting this page ready..."
+msgstr "抓緊啦 - 頁面即將載入完成..."
